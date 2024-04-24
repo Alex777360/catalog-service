@@ -49,6 +49,7 @@ class BookJsonTests {
                     "title": "Title",
                     "author": "Author",
                     "price": 9.99,
+                    "publisher": "Polarsophia",
                     "createdDate": "2024-04-05T22:45:37.000000Z",
                     "lastModifiedDate": "2024-04-05T22:45:37.000000Z",
                     "version": 1
